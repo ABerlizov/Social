@@ -1,0 +1,11 @@
+.nav{
+    grid-area: n;
+    background-color: #033232;
+    color: #d6af2d;
+    text-transform: uppercase;
+    padding: 10px;
+    
+}
+.active{
+    color: red;
+}
